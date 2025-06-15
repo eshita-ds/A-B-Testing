@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb4f7462-a8bf-4aa2-abec-ef2704b1319e" alt="ab_testing_image" width="700"/>
+</p>
+
+
 # A/B Testing: Search Ranking Algorithm Impact on Booking Conversion
 
 This project analyzes the results of an A/B test conducted by a leading online travel agency to evaluate a new search ranking algorithm. The objective is to determine whether the new algorithm improves user conversion rates without negatively affecting the booking experience.

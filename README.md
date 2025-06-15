@@ -40,10 +40,10 @@ Effect sizes were also calculated to assess business impact beyond p-values.
 ## Statistical Approach
 
 - Confidence level: **90%** (α = 0.10)
-- ✅ Z-test for conversion rate (one-sided: variant > control)
-- ✅ T-test for time to booking (two-sided)
-- ✅ SRM (Sample Ratio Mismatch) check using chi-square test
-- ✅ Relative effect size estimation
+-  Z-test for conversion rate (one-sided: variant > control)
+-  T-test for time to booking (two-sided)
+-  SRM (Sample Ratio Mismatch) check using chi-square test
+-  Relative effect size estimation
 
 ---
 
@@ -51,7 +51,7 @@ Effect sizes were also calculated to assess business impact beyond p-values.
 
 - **Conversion Rate**: Variant group showed a statistically significant improvement.
 - **Time to Booking**: No significant difference; variant group was slightly faster.
-- ✅ **Recommendation**: Proceed with full rollout.
+-  **Recommendation**: Proceed with full rollout.
 
 ---
 
